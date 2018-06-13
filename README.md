@@ -1,6 +1,6 @@
 # i3pluspywal
 This is my configuration for i3 with pywal. 
-OBS: The arq conf is for termite terminal.
+OBS: The arq conf is for termite terminal. FOr use the colors in vim, install vim plug after that in vim use the command PlugInstall
 
 1°- Install the i3 manager https://i3wm.org/ and install pywall  for your OS. See documentation: https://github.com/dylanaraps/pywal
 2° - Clone this repository.
