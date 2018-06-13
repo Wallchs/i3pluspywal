@@ -1,4 +1,4 @@
-!#/bin/bash
+#!/bin/bash
 mv configi3 ~/.i3/config
 mv config /etc/xdg/termite/config
 
