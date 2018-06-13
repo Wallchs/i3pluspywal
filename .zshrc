@@ -94,4 +94,4 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
-(cat /home/wallchs/.cache/wal/sequences &)
+(cat /home/$USER/.cache/wal/sequences &)
